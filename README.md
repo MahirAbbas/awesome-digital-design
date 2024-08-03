@@ -1,11 +1,4 @@
 # awesome-digital-design
-stuff
-
-
-THIS IS VERY BAD ATM. 
-THIS IS VERY BAD ATM. 
-
-
 
 
 possible way to organise resources / things to include
